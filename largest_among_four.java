@@ -1,7 +1,7 @@
 package mypack;
 import java.util.*;
 
-public class largest_among_four {
+public class Largest_among_four {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
