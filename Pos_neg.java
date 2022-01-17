@@ -8,5 +8,6 @@ public class Pos_neg {
 		int n = Integer.parseInt(br.readLine());
 		String result = (n>0)?"positive":"negative";
 		System.out.println("The given number is " + result);
+		
 	}
 }
