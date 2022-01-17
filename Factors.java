@@ -17,5 +17,4 @@ public class Factors {
 		System.out.println("The sum of all the factors is " +sum);
 		sc.close();
 	}
-
 }
