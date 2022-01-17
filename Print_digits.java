@@ -19,5 +19,4 @@ public class Print_digits {
 		sc.close();
 		System.out.println("Sum of digits is " +sum);
 	}
-
 }
