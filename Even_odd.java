@@ -11,5 +11,4 @@ public class Even_odd {
 		String result = (n%2 == 0)?"even":"odd";
 		System.out.println("The given number is " + result);
 	}
-
 }
