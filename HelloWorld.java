@@ -20,5 +20,4 @@ public class HelloWorld {
 		System.out.println("My fees is " + fees);
 		sc.close();
 	}
-
 }
