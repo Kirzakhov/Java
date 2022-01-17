@@ -38,7 +38,6 @@ public class AddElement {
 		for(int i : arrNew)
 			System.out.print(i + " ");
 		sc.close();
-
 	}
 
 }
